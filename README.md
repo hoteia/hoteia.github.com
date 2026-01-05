@@ -1,4 +1,4 @@
 hoteia.github.com
 ==================
 
-ColorOptical : gh-pages
+HOTEIA : gh-pages
